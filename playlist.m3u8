@@ -729,12 +729,12 @@ https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Floc
 #X-HIDE-URL:base64:aHR0cDovLzExMC4zOS4yNy40Nzo4MDAxL3BsYXkvYTAzdC9pbmRleC5tM3U4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvV3pYUnJqcXAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgNCIgdHZnLWNvdW50cnk9IklOIixTb255IFNwb3J0cyBUZW4gNSAoNCk=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMGR3L2luZGV4Lm0zdTg=
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly90dmFzc2V0cy5yb2Fyem9uZS5pbmZvL2ltYWdlcy9zb255eWF5LnBuZyIgZ3JvdXAtdGl0bGU9IktpZHMiIHR2Zy1zZXJ2ZXI9InJvYXJ6b25lIiB0dmctY291bnRyeT0iSU4iLFNvbnkgWUFZICgxKQ==
-#X-HIDE-URL:base64:aHR0cHM6Ly9lZGdlMi5yb2Fyem9uZS5pbmZvOjg0NDcvcm9hcnpvbmUvZWRnZTMvc29ueS15YXkvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPTFjZWY5YTE1ZjA0YjlhMDQxYjczYWM3NjIzNTc5MmQzZGVhMWFlZTMtZGE2YTAyZmQ2M2YzNjExYTdmMGRlMTBhNjRiYmZjN2QtMTc3NDAzMjE0NS0xNzc0MDI4NTQ1
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly90dmFzc2V0cy5yb2Fyem9uZS5pbmZvL2ltYWdlcy9zb255eWF5LnBuZyIgZ3JvdXAtdGl0bGU9IktpZHMiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAyIiB0dmctY291bnRyeT0iSU4iLFNvbnkgWUFZICgyKQ==
-#X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU09OWS5ZQVkvaW5kZXgubTN1OD90b2tlbj01NDkzYzViOTRkNDhhYTllMGViNDA1MjAwNjkyNjg2OTdjYjg4NDBkLTU5NzU2OThkMDgxNDdmYmUzMDE1NTdlNDgxNmIxNjY5LTE3NzQzOTUwNzgtMTc3NDM4NDI3OCZyZW1vdGU9bm9fY2hlY2tfaXA=
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly90dmFzc2V0cy5yb2Fyem9uZS5pbmZvL2ltYWdlcy9zb255eWF5LnBuZyIgZ3JvdXAtdGl0bGU9IktpZHMiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAzIiB0dmctY291bnRyeT0iSU4iLFNvbnkgWUFZICgzKQ==
-#X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMDZ3L2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-server="roarzone" tvg-country="IN",Sony YAY (1)
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/tracks-v1a1/mono.m3u8?token=1cef9a15f04b9a041b73ac76235792d3dea1aee3-da6a02fd63f3611a7f0de10a64bbfc7d-1774032145-1774028545
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-server="Server 2" tvg-country="IN",Sony YAY (2)
+http://103.144.89.251:8082/SONY.YAY/index.m3u8?token=5493c5b94d48aa9e0eb40520069268697cb8840d-5975698d08147fbe301557e4816b1669-1774395078-1774384278&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-server="Server 3" tvg-country="IN",Sony YAY (3)
+http://103.229.254.25:7001/play/a06w/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-server="Server 1" tvg-country="BD",SRK TV (1)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSBncm91cC10aXRsZT0iS2lkcyIgdHZnLXNlcnZlcj0iU2VydmVyIDEiIHR2Zy1jb3VudHJ5PSJCRCIsU1JLIFRWICgyKQ==
