@@ -585,6 +585,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvUFRWLVNQT1JUUy1IRC9pbmRleC5tM3U4P3Rva2VuPWViMDcxNzA0ZGU4MjU0ZWVjNmNmMTk4N2UyMDY1ZDA2OTM0YzZkNTktYTJhZTRiM2FkMTdmYzkxZGYwZGU5MTBkZTQyNDllM2EtMTc3NDM5NTA3My0xNzc0Mzg0MjczJnJlbW90ZT1ub19jaGVja19pcA==
 #EXTINF:-1 tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="Bangla" tvg-server="Server 1",RAJDHANI TV HD (1)
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/mnrAbxyqFrG7r9RdGi31UtBnEXH.jpg" group-title="Series | Amazon Prime",Rancho Dutton (2026) S01 E01 (1)
+http://prys.xyz:80/series/Sandramaria/22999061026/1445945.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/mnrAbxyqFrG7r9RdGi31UtBnEXH.jpg" group-title="Series | Amazon Prime",Rancho Dutton (2026) S01 E02 (1)
+http://prys.xyz:80/series/Sandramaria/22999061026/1445946.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/mnrAbxyqFrG7r9RdGi31UtBnEXH.jpg" group-title="Series | Amazon Prime",Rancho Dutton (2026) S01 E03 (1)
+http://prys.xyz:80/series/Sandramaria/22999061026/1446703.mp4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUTk0TkQxSzh2b3VqRW5zWkw2c1JfbVFBX1plLUlXMVE0S1NRJnMiIGdyb3VwLXRpdGxlPSJNb3ZpZXMiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAxIixSb21lZHkgTk9XICgxKQ==
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvUk9NRURZLk5PVy9pbmRleC5tM3U4P3Rva2VuPWQ5M2U0OTBhNDMyNWIzODkxYTkzYTQzYjIzOTgzMjYxOGQwN2U3NDYtOWEwNDlmNjEzNGNjOGY0YzA4NTRiMDM4MzNkYjgzYjYtMTc3NDM5NTA3My0xNzc0Mzg0MjczJnJlbW90ZT1ub19jaGVja19pcA==
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUVR6elFiLTJHRWhDNHhQaWpVd3UtSTFBQ1RhdnRnOVFOSWptYXhzOFNFYjF2M2IwYXVkNlVWc2JEU0FaTFRFTTgwS3VJJnVzcXA9Q0FVIiBncm91cC10aXRsZT0iQmFuZ2xhIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsUnR2IEhEICgxKQ==
