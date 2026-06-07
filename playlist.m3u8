@@ -427,6 +427,8 @@ https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Floc
 #X-HIDE-URL:base64:aHR0cHM6Ly9saXZlLWlzbGFtdHYtYmFuZ2xhLnNpbXBsZXN0cmVhbWNkbi5jb20vbGl2ZTEyL2lzbGFtdHZfYmFuZ2xhL2JpdHJhdGUxLmlzbWwvYml0cmF0ZTEtYXVkaW9fMD0xMjgwMDAtdmlkZW89MjQwNjk3Ni5tM3U4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hj3DtXm2/image.png" group-title="Islamic" tvg-server="Server 1" tvg-country="BD",Islamic TV (1)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg" group-title="Movies | English",Jack the Giant Slayer (1)
+http://a1.media1.london:8080/movie/Keith2025/Keith2025/6543552.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj3NCPPx/image.png" group-title="News" tvg-server="Server 1" tvg-country="BD",Jago News 24 (1)
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkphbHNoYU1vdmllcy5pbkBTRCIgdHZnLWxvZ289Imh0dHBzOi8vdzcucG5nd2luZy5jb20vcG5ncy81NTYvODAzL3BuZy10cmFuc3BhcmVudC1tdWx0aWNvbG9yZWQtc3Rhci1pbGx1c3RyYXRpb24td2l0aC10ZXh0LW92ZXJsYXktamFsc2hhLW1vdmllcy1zdGFyLWphbHNoYS1zdGFyLWluZGlhLWhpZ2gtZGVmaW5pdGlvbi10ZWxldmlzaW9uLW1hYS1taXNjZWxsYW5lb3VzLXB1cnBsZS10ZWxldmlzaW9uLXRodW1ibmFpbC5wbmciIGdyb3VwLXRpdGxlPSJNb3ZpZXMiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAxIixKQUxTSEEgTU9WSUVTICgxKQ==
@@ -473,6 +475,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s1QIH4x4Ru0DufX_CNlWhPvPU3o91ZcA9w&s" group-title="Islamic",Madani TV (8)
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg" group-title="Movies | English",Maleficent (1)
+http://a1.media1.london:8080/movie/Keith2025/Keith2025/6552441.mp4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9leDZKWmdKNXZsbXRfN0s5NUp5S1pSYUVmZ0llMWpWcUZaOGpoTW8tYS1yMGJRaHdjVGJFZVNUdHNPbnpOYjdwM1BIRiIgZ3JvdXAtdGl0bGU9Ik1vdmllcyIgdHZnLXNlcnZlcj0iU2VydmVyIDEiLE1heCBNb3ZpZXMgKDEp
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMGV0L2luZGV4Lm0zdTg=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-TnRKrBcAn3Wg_TNuIbRILQQk5_jlS577w&s" group-title="Bangla" tvg-server="Server 1" tvg-country="BD",ME tv (1)
