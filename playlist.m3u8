@@ -473,6 +473,8 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg" group-title="Movies | English",Maleficent (1)
 http://a1.media1.london:8080/movie/Keith2025/Keith2025/6552441.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg" group-title="Movies | English",Masters of the Universe (2026) (1)
+http://a1.media1.london:8080/movie/Keith2025/Keith2025/6599707.mp4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9leDZKWmdKNXZsbXRfN0s5NUp5S1pSYUVmZ0llMWpWcUZaOGpoTW8tYS1yMGJRaHdjVGJFZVNUdHNPbnpOYjdwM1BIRiIgZ3JvdXAtdGl0bGU9Ik1vdmllcyBjaGFubmVsIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsTWF4IE1vdmllcyAoMSk=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMGV0L2luZGV4Lm0zdTg=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-TnRKrBcAn3Wg_TNuIbRILQQk5_jlS577w&s" group-title="Bangla Channel" tvg-server="Server 1" tvg-country="BD",ME tv (1)
